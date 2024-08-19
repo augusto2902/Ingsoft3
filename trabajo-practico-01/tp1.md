@@ -61,19 +61,38 @@
   - Crear una nueva rama conflictBranch
   - Realizar una modificación en la linea 1 del Readme.md desde main y commitear
   - En la conflictBranch modificar la misma línea del Readme.md y commitear
+  - ![image](https://github.com/user-attachments/assets/e6a5a160-491c-4e9d-a69f-b82d05656205)
+
   - Ver las diferencias con git difftool main conflictBranch
+  - ![image](https://github.com/user-attachments/assets/e3e8608a-43c0-40dc-92a0-019913066781)
+
   - Cambiarse a la rama main e intentar mergear con la rama conflictBranch
+    ![image](https://github.com/user-attachments/assets/14fe69b7-8c39-478e-a93c-a51015c2f297)
+
   - Resolver el conflicto con git mergetool
+  - ![image](https://github.com/user-attachments/assets/5c8419dd-14f1-4b57-9038-c2cfe7c85324)
+  ![image](https://github.com/user-attachments/assets/8555b28a-f10b-4e4f-a5e9-a255993331d1)
+
   - Agregar .orig al .gitignore
   - Hacer commit y push
+![image](https://github.com/user-attachments/assets/37213fe3-6c9d-4700-bd64-5fb10a484c15)
 
 #### 9- Familiarizarse con el concepto de Pull Request
 
   - Explicar que es un pull request.
-  - Crear un branch local y agregar cambios a dicho branch. 
+Es una solicitud para hacer un pull a un repositorio,  para que los mantenedores de un proyecto revisen y, potencialmente, fusionen cambios propuestos desde una rama específica en un repositorio hacia otra rama, comúnmente la rama principal o main.
+  - Crear un branch local y agregar cambios a dicho branch.
+  ![image](https://github.com/user-attachments/assets/3556dbdc-4ed1-4b7b-a742-2887a0c537f9)
+
   - Subir el cambio a dicho branch y crear un pull request.
   - Completar el proceso de revisión en github y mergear el PR al branch master.
 
+![image](https://github.com/user-attachments/assets/ce032e40-ac17-4af1-ac03-937acbd0df16)
+![image](https://github.com/user-attachments/assets/da33a58d-db97-49b4-aadc-cdcd6cde9eec)
+![image](https://github.com/user-attachments/assets/4dd37e92-1bc7-4fcb-be3d-ae02dcab68dd)
 
-
+10- Algunos ejercicios online
+Entrar a la página https://learngitbranching.js.org/
+Completar los ejercicios Introduction Sequence
+Realizado
 
