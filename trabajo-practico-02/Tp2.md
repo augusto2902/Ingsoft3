@@ -272,9 +272,15 @@ exit
 
 
 #### 12- Hacer el punto 11 con Microsoft SQL Server
+
+lo voy a hacer con mysql porque microsoft sqlserver me tira errores
 - Armar un contenedor con SQL Server
-- Crear BD, Tablas y ejecutar SELECT
+![image](https://github.com/user-attachments/assets/5ae3c99a-b93e-4907-b1eb-fc0fee8cf1ba)
+
   
+- Crear BD, Tablas y ejecutar SELECT
+  ![image](https://github.com/user-attachments/assets/94f260ad-6492-49c5-8be8-04e9567b3efa)
+
 #### 13- Presentación del trabajo práctico.
 
 Subir un archivo md (puede ser en una carpeta) trabajo-practico-02 con las salidas de los comandos utilizados. Si es necesario incluir también capturas de pantalla.
